@@ -1,6 +1,6 @@
 # real-time-face-recognition
 
-/Users/victor_sy_wang/Developer/ML/real-time-face-recognition/pipeline.jpg
+[pipeline](./pipeline.jpg)
 ### Running FaceRecognitionPipeline.ipynb
 ```
 $ jupyter notebook
