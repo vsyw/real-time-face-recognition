@@ -1,6 +1,6 @@
 # real-time-face-recognition
 
-[pipeline](./pipeline.jpg)
+![pipeline](./pipeline.jpg)
 ### Running FaceRecognitionPipeline.ipynb
 ```
 $ jupyter notebook
